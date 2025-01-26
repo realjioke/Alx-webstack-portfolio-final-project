@@ -79,7 +79,7 @@ This project is licensed under the MIT License.
 ## 💬 **Contact**
 For questions or suggestions, reach out at:
 
-Email: your-email@example.com
+Email: scarlobest@gmail.com
 GitHub: your-username
 
 Enjoy exploring weather with Goleecast! 🌤️
